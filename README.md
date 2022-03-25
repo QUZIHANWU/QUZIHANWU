@@ -50,6 +50,4 @@
 
 ## 🐍LETS PLAY!
 <div align="center">
-<img width='650' align='center' src="https://github.com/QUZIHANWU/QUZIHANWU/main/assets/github-contribution-grid-snake.svg" ></div>
-
-
+<img width='650' align='center' src="https://github.com/QUZIHANWU/QUZIHANWU/main/dist/github-contribution-grid-snake.svg" />
