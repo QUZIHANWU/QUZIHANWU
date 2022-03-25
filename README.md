@@ -38,12 +38,6 @@
 
 ## 🔝Statistics
 <div align="center">
-<span>  </span>
-   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=QUZIHANWU&show_icons=true&theme=synthwave" /> <span>  </span>
-</div>
-
-
-<div align="center">
-<span>  </span>
-   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QUZIHANWU&layout=compact&langs_count=8" /> <span>  </span>
+   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=QUZIHANWU&show_icons=true&theme=synthwave" />
+   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QUZIHANWU&layout=compact" />
 </div>
