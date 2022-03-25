@@ -49,5 +49,8 @@
 
 
 ## 🐍LETS PLAY!
-<div align="center"><img src="https://raw.githubusercontent.com/QUZIHANWU/QUZIHANWU/.github/workflows/generate_snake.yml" ></div>
-
+<div align="center">
+<img width='650' align='center' src="https://github.com/QUZIHANWU/QUZIHANWU/blob/output/github-contribution-grid-snake.svg" ></div>
+/>
+<div align='center'>
+<img width='650' align='center' src="https://github.com/chuangyu-hscy/chuangyu-hscy/blob/output/github-contribution-grid-snake.svg" alt='snake animation' />
