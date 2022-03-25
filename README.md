@@ -38,6 +38,11 @@
 
 ## 🔝Statistics
 <div align="center">
-   <img height="140px"  src="https://github-readme-stats.vercel.app/api?username=QUZIHANWU&show_icons=true&theme=synthwave" />
+   <img height="140px"  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
    <img height="140px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=QUZIHANWU&layout=compact&theme=synthwave" />
+</div>
+
+<div align="center">
+   <img height="140px"  src="https://github-readme-streak-stats.herokuapp.com/?user=QUZIHANWU&theme=synthwave" />
+   <img height="140px"  src="https://activity-graph.herokuapp.com/graph?username=QUZIHANWU&theme=synthwave" />
 </div>
