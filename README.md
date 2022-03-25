@@ -20,5 +20,5 @@
 <br />
 <!-- short description -->
 <p align='center'> A Data Science student study in the <a href='https://www.unimelb.edu.au/' alt='unimelb'>Unimelb</a> <img src='https://c.tenor.com/nwE8h9HLqZUAAAAj/flag-country.gif' width=20 /> </p>
-<p align='center'> Currently, work in the <a href='https://www.tongdun.cn/?r=pp' alt='杭州同盾科技'>杭州同盾科技</a> <img src='https://media.giphy.com/media/xUNd9UfBxJ2BCrXRjW/giphy.gif' width=20 /> </p>
+<p align='center'> Currently, work in the <a href='https://www.tongdun.cn/?r=pp' alt='杭州同盾科技'>杭州同盾科技</a> <img src='https://tenor.com/view/china-flag-gif-11411743' width=20 /> </p>
 <br />
