@@ -46,3 +46,6 @@
    <img height="140px"  src="https://github-readme-streak-stats.herokuapp.com/?user=QUZIHANWU&theme=synthwave" />
    <img height="140px"  src="https://activity-graph.herokuapp.com/graph?username=QUZIHANWU&theme=synthwave" />
 </div>
+
+
+## LETS PLAY!
