@@ -22,7 +22,7 @@ jobs:
         uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: QUZIHANWU
+          github_user_name: ${{ github.repository_owner }}
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
 
@@ -32,7 +32,3 @@ jobs:
           branch: main
           message: 'Generate Contribution Snake'
 
-作者：Achuan-2
-链接：https://ld246.com/article/1633274473807
-来源：链滴
-协议：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
