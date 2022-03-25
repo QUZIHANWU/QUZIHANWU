@@ -1,12 +1,12 @@
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=3D76F7&center=true&vCenter=true&multiline=true&lines=Welcome!" alt="typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=3D76F7&center=true&vCenter=true&multiline=true&lines=WELCOME!" alt="typing-svg">
 </p>
 
 
 <!-- title/welcome words -->
 <!-- <h1 align='center'> Hello ~ <br /> This is QUZIHAN WU 邬屈子涵</h1>
  -->
-<div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=E9CDF5&height=150&section=header&text=%20 This %is % QUZIHAN %WU %邬屈子涵 %Martin&fontSize=25&fontColor=780295" width='800' /></div>
+<div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=E9CDF5&height=150&section=header&text=HEY!%20 THIS %IS %MARTIN.&fontSize=25&fontColor=780295" width='800' /></div>
 
 
 <!-- social media links 1-->
@@ -28,14 +28,15 @@
 </div>
 
 
-<br />
-<!-- short description -->
-<p align='center'> A Data Science student study in the <a href='https://www.unimelb.edu.au/' alt='unimelb'>Unimelb</a> <img src='https://c.tenor.com/nwE8h9HLqZUAAAAj/flag-country.gif' width=20 /> </p>
-<p align='center'> Currently, work in the <a href='https://www.tongdun.cn/?r=pp' alt='杭州同盾科技'>杭州同盾科技</a> <img src='https://tenor.com/view/china-flag-gif-11411743' width=20 /> </p>
-<br />
+## 🤵‍♂️About Me
+- Name: Martin/Quzihan Wu
+- Hometown: Hangzhou/Zhejiang/China
+- Undergraduate(2019.2 - 2022.11): Data Science, <a href='https://www.unimelb.edu.au/' alt='unimelb'>Unimelb</a> 
+                                                 <img src='https://c.tenor.com/nwE8h9HLqZUAAAAj/flag-country.gif' width=20 /> </p>
+- Work(2022.3 -): Federated Security Algorithm Team in <a href='https://www.tongdun.cn/?r=pp' alt='杭州同盾科技'>杭州同盾科技</a>
 
 
-
+## 🔝Statistics
 <div align="center">
 <span>  </span>
    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=QUZIHANWU&show_icons=true&theme=synthwave" /> <span>  </span>
