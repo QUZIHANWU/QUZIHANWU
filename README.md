@@ -3,24 +3,36 @@
 </p>
 
 
-
-
 <!-- title/welcome words -->
 <!-- <h1 align='center'> Hello ~ <br /> This is QUZIHAN WU 邬屈子涵</h1>
  -->
 <div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=E9CDF5&height=150&section=header&text=Hello ~%20 This %is % QUZIHAN %WU %邬屈子涵&fontSize=25&fontColor=666666" width='650' /></div>
 
 
-<!-- social media links -->
+<!-- social media links 1-->
+<p align="center">
+   <img width=30 src="https://c.tenor.com/CsqnkjKnojgAAAAi/dm4uz3-foekoe.gif" />
+   <a title="github" target="_blank" href="https://github.com/QUZIHANWU"><img src="https://img.shields.io/badge/dynamic/json?color=272626&label=Github&query=%24.data.totalSubs&suffix=follower&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DQUZIHANWU" ></a>
+</p>
+
+
+<!-- social media links 2-->
 <div align='center'>
   <img width=30 src="https://c.tenor.com/CsqnkjKnojgAAAAi/dm4uz3-foekoe.gif" />
-  <a href='https://github.com/QUZIHANWU?tab=projects'><img height=25 src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' /></a>
   <a href="https://www.instagram.com/marzeguptreetin/" target="_blank"><img height='25' src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href='https://www.linkedin.cn/injobs/in/%E5%AD%90%E6%B6%B5-%E9%82%AC%E5%B1%88-868463210' alt='rin huang linkedin'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin link' height='25' /></a>
 <!--   <a href='https://www.instagram.com/marzeguptreetin/' alt='marzeguptreetin instagram'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='25'></a> -->
   <a href = "quzihanwu.0712@gmail.com"><img height='25' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/@me" target="_blank"><img height='25' src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
+
+
+
+
+
+
+
+
 
 
 <br />
