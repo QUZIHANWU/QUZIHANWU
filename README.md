@@ -12,7 +12,8 @@
 <!-- social media links 1-->
 <p align="center">
    <img width=30 src="https://c.tenor.com/CsqnkjKnojgAAAAi/dm4uz3-foekoe.gif" />
-   <a title="github" target="_blank" href="https://github.com/QUZIHANWU"><img src="https://img.shields.io/badge/dynamic/json?color=272626&label=Github&query=%24.data.totalSubs&suffix=follower&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DQUZIHANWU" ></a>
+   <a title="github" target="_blank" href="https://github.com/QUZIHANWU"><img src="https://img.shields.io/badge/dynamic/json?color=FFFFFF&label=Github&query=%24.data.totalSubs&suffix=followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DQUZIHANWU" ></a>
+   <a title="weibo" target="_blank" href="https://weibo.com/5553479709/profile?topnav=1&wvr=6"><img src="https://img.shields.io/badge/dynamic/json?labelColor=e71f19&color=FFFFFF&label=Weibo&query=%24.data.totalSubs&suffix=followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D5553479709" ></a>
 </p>
 
 
