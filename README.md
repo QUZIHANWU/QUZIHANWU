@@ -5,7 +5,7 @@
  -->
 
 
-<div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=9be9e4&height=150&section=header&text=~%Hello ~%20 This %is % QUZIHAN %Wu&fontSize=25&fontColor=fff" width='650' /></div>
+<div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=9be9e4&height=150&section=header&text=~%Hello ~%20 This %is % QUZIHAN %WU %邬屈子涵&fontSize=25&fontColor=fff" width='650' /></div>
 
 
 
