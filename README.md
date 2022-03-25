@@ -6,7 +6,7 @@
 <!-- title/welcome words -->
 <!-- <h1 align='center'> Hello ~ <br /> This is QUZIHAN WU 邬屈子涵</h1>
  -->
-<div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=E9CDF5&height=150&section=header&text=HEY!%20 THIS %IS %MARTIN.&fontSize=25&fontColor=780295" width='800' /></div>
+<div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=E9CDF5&height=150&section=header&text=HEY!%20 THIS %IS %MARTIN.&fontSize=25&fontColor=213a26" width='800' /></div>
 
 
 <!-- social media links 1-->
