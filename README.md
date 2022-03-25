@@ -39,5 +39,5 @@
 ## 🔝Statistics
 <div align="center">
    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=QUZIHANWU&show_icons=true&theme=synthwave" />
-   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QUZIHANWU&layout=compact" />
+   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QUZIHANWU&layout=compact&theme=synthwave" />
 </div>
