@@ -1,4 +1,10 @@
-<!-- <p align="left" margin> <img src="https://komarev.com/ghpvc/?username=chuangyu-hscy&label=Profile%20views&color=fd428d&style=badge" alt="chuangyu-hscy" /></p> -->
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=3D76F7&center=true&vCenter=true&multiline=true&lines=Welcome!" alt="typing-svg">
+</p>
+
+
+
+
 <!-- title/welcome words -->
 <!-- <h1 align='center'> Hello ~ <br /> This is QUZIHAN WU 邬屈子涵</h1>
  -->
