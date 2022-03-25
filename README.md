@@ -49,4 +49,5 @@
 
 
 ## 🐍LETS PLAY!
-<div align="center"><img src="https://raw.githubusercontent.com/QUZIHANWU/main/snake games" ></div>
+<div align="center"><img src="https://raw.githubusercontent.com/QUZIHANWU/QUZIHANWU/.github/workflows/generate_snake.yml" ></div>
+
