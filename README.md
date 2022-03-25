@@ -5,4 +5,4 @@
  -->
 
 
-<div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=E9CDF5&height=150&section=header&text=Hello ~%20 This %is % QUZIHAN %WU %邬屈子涵&fontSize=25&fontColor=ffffff" width='650' /></div>
+<div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=E9CDF5&height=150&section=header&text=Hello ~%20 This %is % QUZIHAN %WU %邬屈子涵&fontSize=25&fontColor=000000" width='650' /></div>
