@@ -49,4 +49,4 @@
 
 
 ## 🐍LETS PLAY!
-<div align="center"><img src="https://raw.githubusercontent.com/QUZIHANWU/QUZIHANWU/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://raw.githubusercontent.com/QUZIHANWU/main/snake games" ></div>
