@@ -8,6 +8,8 @@
  -->
 <div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=E9CDF5&height=150&section=header&text=HEY!%20 THIS %IS %MARTIN.&fontSize=25&fontColor=213a26" width='800' /></div>
 
+<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<br>
 
 <!-- social media links 1-->
 <p align="center">
