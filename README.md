@@ -36,7 +36,9 @@
 - Undergraduate(2019.2 - 2022.11): Data Science, <a href='https://www.unimelb.edu.au/' alt='unimelb'>Unimelb</a> 
                                                  <img src='https://c.tenor.com/nwE8h9HLqZUAAAAj/flag-country.gif' width=20 /> </p>
 - Work(2022.3 -): Federated Security Algorithm Team in <a href='https://www.tongdun.cn/?r=pp' alt='杭州同盾科技'>杭州同盾科技</a>
-
+- We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.
+<!-- just img -->
+<div align="center"><img width="250px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
 
 ## 🔝Statistics
 <div align="center">
@@ -49,7 +51,8 @@
    <img height="140px"  src="https://activity-graph.herokuapp.com/graph?username=QUZIHANWU&theme=synthwave" />
 </div>
 
-
 ## 🐍LETS PLAY!
 <div align="center">
 <img width='650' align='center' src="https://github.com/QUZIHANWU/QUZIHANWU/main/assets/github-contribution-grid-snake.svg" />
+
+## 
