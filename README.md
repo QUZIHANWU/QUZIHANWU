@@ -51,7 +51,6 @@
 </div>
 
 ## 🐍LETS PLAY!
-<div align="center">
-<img width='650' align='center' src="https://github.com/QUZIHANWU/QUZIHANWU/main/assets/github-contribution-grid-snake.svg" />
 
-## 
+<div align='center'>
+<img width='650' align='center' src="https://github.com/QUZIHANWU/QUZIHANWU/blob/output/github-contribution-grid-snake.svg" alt='snake animation' />
